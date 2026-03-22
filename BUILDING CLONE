@@ -3,3 +3,5 @@
 git clone https://github.com/rhoadescecilia/businesswebsite0001.git
 cd businesswebsite0001
 dir #Windows
+
+git pull origin main #update the files for git to track
